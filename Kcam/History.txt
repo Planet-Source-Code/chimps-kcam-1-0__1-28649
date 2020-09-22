@@ -1,0 +1,9 @@
+KCam Version 1.0 |
+-----------------+
+Date started: 10/2/2001 [Friday]
+Compile Date: 10/3/2001 [Sunday]
+
+Features: - Different Viewing modes
+          - Added progress bar indicator
+          - Ability to load different databases
+          - Added favorites

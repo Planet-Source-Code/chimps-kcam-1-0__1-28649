@@ -1,0 +1,12 @@
+[New York Bridge]
+Cam Title=New York Bridge
+Address=http://www.earthcam.com/ec_metros/newyork/newyork/post.jpg
+Comments=Live from New York
+Interval=5
+
+[Weather]
+Cam Title=Weather
+Address=http://www.rsn.com/image_display/0,3564,1354638,00.JPG?party_id=1258
+Comments=Weather camera, winter storm coming!
+Interval=10
+
